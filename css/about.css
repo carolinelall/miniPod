@@ -1,0 +1,14 @@
+.container-fluid .miniPod-logo{
+  height: 32px;
+  width: 32px;
+}
+.btn-primary a{
+  color: white;
+  text-decoration: none;
+}
+.btn-outline-secondary a{
+  text-decoration: none;
+}
+.btn-outline-secondary:hover a{
+  color: white;
+}
